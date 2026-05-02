@@ -1,0 +1,2 @@
+# Pandas-Complete-Notebook-in-Jupyter-Code
+Self-created Pandas notebook built in Jupyter.  Covers key data handling topics including:  Data Loading &amp; Inspection Missing Values Handling Duplicate Removal Data Type Conversion Text Cleaning Value Replacement &amp; Mapping Column &amp; Index Operations Data Filtering Outlier Handling  Built from scratch with clear explanations and practical examples.
